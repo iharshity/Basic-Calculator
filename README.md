@@ -1,63 +1,73 @@
-# 🧮 Basic Calculator
+# 🧮 Modern Calculator
 
-A modern, responsive calculator built using HTML, CSS, and JavaScript, featuring a clean glassmorphism UI and smooth interactions.
+A **modern, responsive calculator** built using **HTML, CSS, and JavaScript**, featuring a clean glassmorphism UI and smooth interactions.  
+This project was built to strengthen **frontend fundamentals** like DOM manipulation, event handling, and CSS Grid layouts.
 
-This project was created to practice DOM manipulation, event handling, and UI layout using CSS Grid.
+---
+
+## 🌐 Live Demo
+
+👉 **Reminder: Try it live here**  
+🔗 https://iharshity.github.io/Basic-Calculator/
 
 ## 🚀 Features
 
-  ➕ Basic arithmetic operations (+, -, ×, ÷) 
-  
-  🔢 Decimal number support
-  
-  🧼 Clear (AC) button to reset calculation
-  
-  🟰 Equal (=) button with error handling
-  
-  🧠 Prevents multiple operators at once
-  
-  🎨 Modern glassmorphism UI
-  
-  📱 Fully responsive layout
-  
-  🧩 Grid-based button layout (CSS Grid)
+- ➕ Basic arithmetic operations (`+`, `-`, `×`, `÷`)
+- 🔢 Decimal number support
+- 🧼 Clear (AC) button
+- 🟰 Equal (`=`) button with error handling
+- 🧠 Prevents multiple operators in sequence
+- 🎨 Modern glassmorphism UI
+- 📱 Responsive design
+- 🧩 Grid-based layout using CSS Grid
+
+---
 
 ## 🛠️ Tech Stack
 
-   HTML5 – Structure, 
-   CSS3 – Styling & layout (Grid + Glass UI), 
-   JavaScript (ES6) – Logic & interactivity
+- **HTML5** – Structure  
+- **CSS3** – Styling, Grid layout, Glass UI  
+- **JavaScript (ES6)** – Logic & interactivity  
+
+---
 
 ## 📂 Project Structure
-    ├── index.html     # Calculator struc
-    ├── style.css      # UI design & layout
-    ├── script.js      # Calculator logic
-    └── README.md      # Project documentation
+```bash
+├── index.html     # Calculator structure
+├── style.css      # UI styling
+├── script.js      # Calculator logic
+└── README.md      # Documentation
 
+```
 ## 🧠 What I Learned
 
-  Handling user input using event listeners
-  
-  Managing calculator state efficiently
-  
-  Preventing invalid operations
-  
-  Using CSS Grid for complex layouts
-  
-  Creating a modern UI with minimal CSS
+- Handling button input using **event listeners**
+- Managing calculator state efficiently
+- Preventing invalid operator combinations
+- Using **CSS Grid** for complex layouts
+- Designing a modern UI from scratch
 
-## 📸 UI Highlights
+---
 
-  Glassmorphism effect using backdrop-filter
-  
-  Gradient equals button
-  
-  Responsive button grid
-  
-  Clean dark theme for better visibility
+## 🎨 UI Highlights
 
-## ⚠️ Note
+- Glassmorphism using `backdrop-filter`
+- Gradient equals (`=`) button
+- Dark theme for better readability
+- Smooth hover and click animations
 
-  This calculator uses JavaScript’s eval() function for simplicity.
-  
-  While acceptable for learning projects, it’s not recommended for production due to security concerns.
+---
+
+## ⚠️ Important Note
+
+This calculator uses JavaScript’s `eval()` function for simplicity.  
+While fine for **learning projects**, it is **not recommended for production** due to security concerns.
+
+---
+
+## 🧪 Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/iharshity/Basic-Calculator.git
+2. Open index.html in your browser
