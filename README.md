@@ -1,6 +1,6 @@
-# 🧮 Modern Calculator
+# 🧮 Basic Calculator
 
-A **modern, responsive calculator** built using **HTML, CSS, and JavaScript**, featuring a clean glassmorphism UI and smooth interactions.  
+A **basic, responsive calculator** built using **HTML, CSS, and JavaScript**, featuring a clean glassmorphism UI and smooth interactions.  
 This project was built to strengthen **frontend fundamentals** like DOM manipulation, event handling, and CSS Grid layouts.
 
 ---
